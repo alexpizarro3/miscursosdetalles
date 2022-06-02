@@ -1,0 +1,9 @@
+1-Create Folder
+2-cmd to the folder
+3-npm create-react-"name"
+4-cd "name"
+5-npm start
+
+6-npm start
+7-npm i gh-pages
+8-npm run deploy

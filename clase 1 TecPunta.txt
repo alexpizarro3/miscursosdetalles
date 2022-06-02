@@ -1,0 +1,38 @@
+Direccion IP tiene 2 sectores Mascara de Red y Mascara de Sub Red
+
+Default Gateway o puerta de enlace es un router de salida de los datos 
+
+Dentro de las direcciones IP hay:
+
+Direccion de red - Direccion de Broadcast - Direccion Host.
+
+Una Direccion IP tiene 4 octetos o 4 bytes de 8 Bits en total 32 Bits
+
+Cada octeto suma 255 en decimal por eso 255.255.255.255
+
+Ejemplo 10000011 = 131  
+
+2n es parte de la formula de subneteo
+
+todo lo que empiece por 192 es clase C
+
+Las ips privadas no pueden navegar por internet
+
+Una direccion ip publica unido a un servidor web es una pagina web unido con un servidor dns que transcribe las dir ips a texto
+
+MASCARAS DE RED
+
+A 255.0.0.0  / 8
+B 255.255.0.0  /  16
+C 255.255.255.0  / 24
+
+En un Subneteo la pimera IP es de red exclusiva y la ultima de Bradcast
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,91 @@
+<!DOCTYPE/>
+<HTML Lan="EN">
+
+	<head>
+
+		<body>
+		
+		</body>
+
+	</head>
+
+</html>
+
+
+index.html
+
+<!Doctype html/>
+
+<html lang="en">
+
+	<head>
+	
+	</head>
+
+	<body>
+	
+
+	<script> src="js/app.js"</script>
+	</body>
+
+</html>
+
+
+index.html
+
+<!Doctype html/>
+
+<html lang="en">
+
+	<head>
+
+	</head>
+
+	<body>
+	
+	<script> src="js/app.js"</script>
+	</body>
+
+</html>
+
+
+index.html
+
+<!Doctype html/>
+
+<html lang="en">
+
+	<head>
+		
+	</head>
+
+	<body>
+
+	<script> src="js/app.js"</script>
+	</body>
+
+</html>
+
+index.html
+
+<!Doctype html/>
+
+<html lan="en">
+
+	<head>
+		
+
+	</head>
+
+	<body>
+	
+	<script> src="js/app.js"</script>
+	</body>
+
+</html>
+
+
+
+
+
+

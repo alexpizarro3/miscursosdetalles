@@ -1,0 +1,41 @@
+1- git status  			//ve que modificaciones se hciieron en el directorio
+2- git add archivo1.txt  (Sube especifico)  -  *.txt (sube solo los .txt) -  git add .  (mala practica sube todo lo modificado)
+3- git stattus			//ve que modificaciones se hciieron en el directorio
+4- git commit -m "Commit Inicial"	//Graba los cambios realizados en el repositorio local
+5- git commit 				//abre vscode para agregarle la descripcion del commit - guardar - cerrar y se crea el commit en repositorio
+6- git rm archivo1.txt			//Intruccion de borrado
+7- git add archivo1.txt			//lo elimina del directorio
+8- git status 				//verifica el cambio
+9- luego de hacer rm a un archivo se puede aplicar 
+10- git restore --staged archivo.txt	//lo saca del staged para que no se elimine
+11- git status 				//verifica
+12- ls 					//para verlo borrado del directorio
+13- git restore archivo.txt		//restaura el archivo
+14- git status 				//verifica
+15- ls	 				//para verificar el directorio
+16- mv archivo.txt archivo1.txt		//cambia el nombre del archivo pero sin enviar a stage y hay que hacer add de los archivos
+17- git mv archivo1.txt archivo.txt	//cambia el nombre pero lo agrega directo a stage y nada mas darle git commit -m
+18- al crear .env en vscode y agregarlos a .gitignore esto se enlaza con git
+19- git status				//para ver los agregados de env y gitignore
+19- git add .gitignore 			//al crear un .gitignore en vscode este se leera desde git y no subira lo que este declarado en ese .gitignore
+20- git status -m 			//mas elegante menos info				
+21- git diff 				//muestra las modificaciones a agregarse al repositorio
+22- git diff --staged			//muestra todos los cambios en el ultimo staged generado
+23- git log				//muestra toda la informacion relacionada a lo realizado en git
+24- git log --oneline			//muestra mas elegante y resumido el log
+25- git branch				//muestra la rama sobre la cual estamos trabajando
+26- git checkout -b ramab		//nos movemos a una rama nueva b creada
+27- cat archivo1.txt			//muestra el contenido
+26- git checkout main			//vuelve a la rama principal
+27- git merge ramab			//agrega los cambios de ramab a master
+28- git remote add origin https://github.com/alexpizarro3/prueba.git  //asigna la web donde se va a subir
+29- git branch -M main			//crea la rama en git hub
+30- git push -u origin main		//sube los datos
+31- aveces pide usuario y contrasena  contrasena es el token
+32- git push				//updates
+33- para crear una rama nueva en git y subir los cambios a esa rama seria:
+34- git checkout -b ramaC		//crea nueva rama
+35- git push -u origin ramaC
+
+
+ 			

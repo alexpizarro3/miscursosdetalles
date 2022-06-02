@@ -1,0 +1,12 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active"
+}
+
+tailwind intellisense
+
+flatland monokai theme
+
+liver server correr html 
+
+

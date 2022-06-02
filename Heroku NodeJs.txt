@@ -1,0 +1,6 @@
+Pasos para Node Js y Heroku
+
+1- Crer cuenta en Heroku
+2- Crear nueva app
+3- Instalar Heroku CLI
+4- 

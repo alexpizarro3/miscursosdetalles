@@ -1,0 +1,21 @@
+
+
+1- Crear carpeta principal de proyecto
+2- Crear carpeta backend y abri rla en vscode
+3- Con terminal ejecutar npm init-y  // para crear el package json para especificar modulos y dependencias
+4- Intalar modulos de dependencia o produccion   npm i express pg morgan cors dotenv swagger-jsdoc swagger-ui-express //express permite agregar rutas o direcciones del servidor, pg postgress, morgan peticiones en consola, cors conexiones al back end, swagger permite mostrar los comentarios como documnetacion online de la aplicacion, dotenv permite crear variables de entorno para no tener que subirlas a git.
+5- Creamos carpeta src
+6-Instalar modulos para cuando se escriba el codigo   npm i nodemon -D  con nodemon permite que el servidor se ejecute cada vez que se cambie el codigo,
+7- Dentro de src creamos index.js
+8- Matar proceso windows puerto 3000 .....  netstat -ano | findstr :3000    taskkill /F /PID 16052
+9- en package json agregar los scripts start y nodemon src/index.js
+	"scripts": {
+    		"start": "node src/index.js",
+    	"dev": "nodemon src/index.js"
+  	},
+10- Install extension Thunder Client o Postman
+11- Usar .env para variables de entorno y .gitignore
+12- poner en index.js todos los app.use incluir el cors para poder conectarse con el backend de react para poder usar el frontend
+13- https://www.youtube.com/watch?v=HMKVnwlhJO0&t=6369s  1:13:00   1:26:00 expo para el forntend con react native.
+
+

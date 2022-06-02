@@ -1,0 +1,29 @@
+1- Descargar Git
+2- Abrir Git.Bash
+3- git --version
+4- git config --global user.name "Alexis Pizarro"    // Asiga nombre a la cuenta de git
+4.1 git config --global user.email alexpizarro3@gmail.com //agrega el email de la cuenta de git
+5- git config --global core.editor "code --wait"     // espera para abrir vs code y ver lo que se hizo
+6- git config --global -e                            // espera cerrar vscode
+7- git config --global core.autocrlf true   		   // para subir o descargar
+8- git config -h 					//ver todas las posibles configuraciones
+9- ls   						//carpetas que contienen git
+10- cd 							//ir a un directorio
+11- pwd 						//ver en que directorio esta actualmente
+12- cd..						//regresa a la carpeta anterior
+13- mkdir prueba					//crea carpeta dentro del direcorio nombre prueba
+14- git init 						//inicia repositorio de git    .git
+15- ls -a						//muestra si hay repositorio git creado
+16- cd .git						//ingresa al directorio .git
+17- ls -a						//muestra el detalle de implementacion ramas, versiones, commits
+18- git init						//inicia un repositorio git nuevo si no existe uno
+19- git status						//muestra los cambios no guardados
+20- git add .						//anade todos los cambios a stage
+21- git commit -m "Primer carga"			//agrega un nombre a la version de cambios
+22- git branch -M main					//asigna la rama main como lugar donde se subiran los cambios de la version
+23- git remote add origin https://github.com/alexpizarro3/htmlcursoinicial.git //escoge la direccion web y el repositorio donde se guardaran los cambios en la nube
+24- git push -u origin main				//hace push o sube a la nube la version y cambios
+
+						
+
+

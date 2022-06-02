@@ -1,0 +1,7 @@
+1-Python Download and install.
+2-Check use CMD
+3-Extension: Download Python from Microsoft
+4-Extension: Code Runner install
+5-Load a Dir to VSCode
+6-Create a __.py file
+7-Go crazy with your code
