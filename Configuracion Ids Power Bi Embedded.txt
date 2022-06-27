@@ -1,0 +1,13 @@
+
+
+Id de aplicacion Cliente     c85882ce-4e69-4643-a923-ab97de6f4cad
+Identificador de objeto      005a7aa8-c89e-4462-8260-bdd960eeb841
+Id directorio inquilinoTen   8051c068-3df3-4224-b116-3152367abf11
+
+Valor Secret		     Coj8Q~qM-WE3jzsUrPHkyBJSJgqeNpDdXPPuRbeL
+Id Secreto		     9d8356e4-f133-4f44-a259-db01755450e5
+
+Reporte Id 		     https://app.powerbi.com/groups/16f926ba-a56c-4c09-81a8-534f7b0cb0fa/reports/ef826b8b-41e3-4c3a-8c9c-8637f7602878/ReportSection2
+
+Workspace id 		     16f926ba-a56c-4c09-81a8-534f7b0cb0fa
+Report id		     ef826b8b-41e3-4c3a-8c9c-8637f7602878
